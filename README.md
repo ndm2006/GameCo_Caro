@@ -11,4 +11,4 @@ Các nút chức năng nằm ở bên phải theo thứ tự từ trên xuống 
 - Nút hoàn tác lại nước đi vừa rồi( Undo)
 - Nút thoát trò chơi (Exit)
 - Nút chơi lại ván đấu mới (Replay)
-  àn cờ sẽ nằm ở bên trái các nút chức năng
+Bàn cờ sẽ nằm ở bên trái các nút chức năng
